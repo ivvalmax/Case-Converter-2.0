@@ -1,0 +1,21 @@
+textarea{
+    width: 358px;
+    height: 250px;
+    border: 1px solid black;
+
+}
+.flex-button{
+    display: flex;
+
+}
+
+.button-decoration{
+    flex-flow: row wrap;
+
+    background-color: coral;
+    color: black;
+    border: none;
+}
+.title{
+    size: 150px;
+}
